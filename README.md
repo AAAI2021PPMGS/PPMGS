@@ -217,30 +217,3 @@
 	
 	
 	*All demos are run on the G50C dataset.
-
-
-##cite information:
-	
-	@Article{Li2020,
-	
-	author		= {Zhi Li and Chaozhuo Li and Liqun Yang and Philip S. Yu and Zhoujun Li},
-	
-	title		 = {Mixture distribution modeling for scalable graph-based semi-supervised learning},
-	
-	journal	 = {Knowl. Based Syst.},
-	
-	year			= {2020},
-	
-	volume		= {200},
-	
-	pages		 = {105974},
-	
-	bibsource = {dblp computer science bibliography, https://dblp.org},
-	
-	biburl		= {https://dblp.org/rec/journals/kbs/LiLYYL20.bib},
-	
-	doi			 = {10.1016/j.knosys.2020.105974},
-	
-	}
-
-	*This is the original MGS algorithm.
