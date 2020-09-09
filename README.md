@@ -87,8 +87,6 @@
 	
 	publisher		 = {{AAAI} Press},
 	
-	__markedentry = {[LeeChee:6]},
-	
 	bibsource		 = {dblp computer science bibliography, https://dblp.org},
 	
 	biburl				= {https://dblp.org/rec/conf/icml/ZhuGL03.bib},
